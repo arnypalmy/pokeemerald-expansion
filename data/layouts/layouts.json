@@ -9329,10 +9329,21 @@
       "name": "LittlerootTown_TEST_Layout",
       "width": 20,
       "height": 20,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_Snowy",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/LittlerootTown_TEST/border.bin",
       "blockdata_filepath": "data/layouts/LittlerootTown_TEST/map.bin",
+      "layout_version": "emerald"
+    },
+    {
+      "id": "LAYOUT_PETALBURG_CITY_TEST",
+      "name": "PetalburgCity_TEST_Layout",
+      "width": 30,
+      "height": 30,
+      "primary_tileset": "gTileset_Snowy",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PetalburgCity_TEST/border.bin",
+      "blockdata_filepath": "data/layouts/PetalburgCity_TEST/map.bin",
       "layout_version": "emerald"
     }
   ]
